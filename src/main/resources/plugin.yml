@@ -1,0 +1,8 @@
+name: PluginHider
+version: '${project.version}'
+main: dev.blousy.pluginhider.PluginHider
+api-version: '1.20'
+commands:
+  plugins:
+    usage: /<command>
+    aliases: [pl]
